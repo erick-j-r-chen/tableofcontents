@@ -1,0 +1,42 @@
+body{
+	background: #40C4FF;
+	color: white;
+	transition: background 3s, color 3s;
+	margin: 140px;
+}
+
+.navLink{
+color: #FFE0B2;
+font-size: 25px;
+width: 12px;
+height: 30px;
+background-color: #9575CD;
+float: center;
+margin-top: -12px;
+padding: 3px;
+font-family: 'Krub', sans-serif;
+}
+
+#navBar{
+width: 95%;
+height: 25px;
+margin: auto;
+position: relative;
+}
+
+h1{
+	font-family: 'Krub', sans-serif;
+	color: #0277BD;
+	text-shadow: #FC0 12px 10px 17px, 30px 20px 15em yellow, 0 0 0.5em white;
+	font-size: 45px;
+}
+
+a{
+	font-family: 'Krub', sans-serif;
+	color: #E0F7FA;
+}
+p{
+	font-family: 'Krub', sans-serif;
+	color: #A7FFEB;
+	font-size: 35px;
+}
